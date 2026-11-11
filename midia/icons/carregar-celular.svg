@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+  <!-- sun / solar -->
+  <circle cx="18.2" cy="4.15" r="1.45" fill="#00F59B"/>
+  <g stroke="#00F59B" stroke-width="1.25" stroke-linecap="round">
+    <path d="M18.2 1.35v.7"/>
+    <path d="M18.2 6.25v.7"/>
+    <path d="M15.4 4.15h.7"/>
+    <path d="M20.3 4.15h.7"/>
+    <path d="M16.15 2.1l.5.5"/>
+    <path d="M19.75 5.7l.5.5"/>
+    <path d="M16.15 6.2l.5-.5"/>
+    <path d="M19.75 2.6l.5-.5"/>
+  </g>
+  <!-- phone body -->
+  <rect x="6.35" y="3.1" width="11.3" height="18.1" rx="2.15" stroke="#00F59B" stroke-width="1.65"/>
+  <!-- lightning -->
+  <path fill="#00F59B" d="M13.35 7.35 9.85 13.05h2.55l-1.55 4.55 3.95-6.45h-2.45l1-3.8z"/>
+</svg>

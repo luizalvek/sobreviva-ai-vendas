@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+  <defs>
+    <mask id="bag">
+      <rect width="24" height="24" fill="#fff"/>
+      <rect x="8.15" y="11.5" width="7.7" height="4.35" rx="1.05" fill="#000"/>
+      <circle cx="17.15" cy="17.4" r="4.15" fill="#000"/>
+    </mask>
+  </defs>
+  <!-- handle -->
+  <path d="M9.1 7.4c0-2.15 5.8-2.15 5.8 0" stroke="#00F59B" stroke-width="1.7" stroke-linecap="round"/>
+  <!-- body with pocket and badge cut-outs -->
+  <path mask="url(#bag)" fill="#00F59B" d="M7.15 8.15h9.7a2.15 2.15 0 0 1 2.15 2.15v8.35A2.85 2.85 0 0 1 16.15 21.5H7.85A2.85 2.85 0 0 1 5 18.65v-8.35a2.15 2.15 0 0 1 2.15-2.15z"/>
+  <!-- check badge -->
+  <circle cx="17.15" cy="17.4" r="3.35" stroke="#00F59B" stroke-width="1.35" fill="none"/>
+  <path d="M15.45 17.4 16.7 18.65 19 16" stroke="#00F59B" stroke-width="1.55" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
